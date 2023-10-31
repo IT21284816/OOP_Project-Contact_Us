@@ -1,0 +1,7 @@
+database-contact_us
+table- users
+
+id (p,nn,Ai) int
+name-  varchar
+email-  varchar
+description-  varchar
